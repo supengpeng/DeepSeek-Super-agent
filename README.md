@@ -1,3 +1,3 @@
 # DeepSeek-Super-agent
 
-Working repository for the dsh-superagent prototype.
+dsh-superagent 原型的工作仓库。
